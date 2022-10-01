@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Analytics and Open Source
 - 🌱 I’m currently learning how to contribute to Open Source 🌏
 
-### 📫 How to reach me ...
+### 📫 How to reach me:
 - Email: priyash245101@gmail.com
 - LinkedIn: https://www.linkedin.com/in/priya-sharma--/
 
